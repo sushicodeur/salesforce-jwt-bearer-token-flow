@@ -5,7 +5,6 @@
   "description": "SalesForce OAuth 2.0 JWT Bearer Token Flow Implementation",
   "dependencies": {
     "base64url": "^3.0.1",
-    "crypto": "^1.0.1",
     "request": "^2.88.0"
   },
   "repository": {
@@ -17,9 +16,6 @@
     "JWT",
     "OAuth"
   ],
-  "engines": {
-    "node": "0.12.7"
-  },
   "author": "Arthur IMIRZIAN",
   "license": "MIT",
   "readmeFilename": "README.md"
